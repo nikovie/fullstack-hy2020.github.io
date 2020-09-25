@@ -509,6 +509,7 @@ Luetellaan tässä kaikesta huolimatta muitakin UI-frameworkeja. Jos oma suosikk
 - <https://chakra-ui.com/>
 - <https://tailwindcss.com/>
 - <https://semantic-ui.com/>
+- <https://tachyons.io/>
 
 ### Styled components
 
